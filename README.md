@@ -1,4 +1,4 @@
-![banner](https://github.com/sharif291/sharif291/blob/main/banner-image.png)
+![banner](https://github.com/sharif291/sharif291/blob/main/fiv_up_profile_stat.png)
 
 I am a Bangladesh based Full-Stack Software Developer with 3+ years of industry experience. My journey started with Python but I have since worked with a wide variety of technologies and then continued working on Javascript. 
 I've gained significant experience with JavaScript, HTML5, CSS and MySQL, MongoDB. As well as these technologies, I've also built and deployed projects and gained experience with React and Next.  
