@@ -15,6 +15,21 @@ I'm really passionate about upskilling and connecting with others in the Tech co
 - Automated data workflows using Google tools.
 - Effective collaborator, solving complex challenges in cross-functional teams.
 
+
+## Projects
+
+- [Ecommerce Website (B2B) - Standard Recreation](https://standardrecreation.com/)
+- [Outlook Plugin – JAMBO](https://www.jambo.cloud/outlook-add-in)
+- [Business Portfolio Website - ENRICH GROUP](https://enrichgrp.com/)
+- [Business Website – DeshiFarmer](https://www.deshifarmer.co/)
+- [Blog Website – BD Blogger](https://bdblogger.vercel.app/)
+- [Adobe Extension - Indesign Salesforce Connector]
+- [Author Portfolio](https://fjsteel.vercel.app/)
+- [Hacker Portfolio](https://kylerace-portfolio.vercel.app)
+- [Real Estate Agent](https://bofiks.no)
+- [Economist & University Professor](https://motanweer.com)
+- [Business Portfolio](https://wanderlust-sharif291.vercel.app)
+
 ### To celebrate my 3 yrs in Software Development, here's 7 things I love:
 ![](https://github.com/sharif291/sharif291/blob/main/SharifPlayer.gif)
 1. Music. My taste is pretty varied.
@@ -22,7 +37,7 @@ I'm really passionate about upskilling and connecting with others in the Tech co
 3. Chocolate.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,next,express,ts,js,html,css,mysql,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,express,ts,js,html,css,mysql,mongo,discordjs)](https://skillicons.dev)
 
 ## Currently Exploring
 - Upskilling in MERN stack via a 100xDevs course.
