@@ -8,10 +8,11 @@ I've gained significant experience with Typescript, JavaScript, HTML5, CSS and M
 - I have enough proficiency in English language to Read, Write and Speak about requirements to make clear understandings among stakeholders.
 - Since 2022 I am working as a Remote Software Engineer. and there is no a problem to manage work life balance at all.
 
+
 ![banner](https://github.com/sharif291/sharif291/blob/main/fiv_up_profile_stat.png)
 
 I'm really passionate about upskilling and connecting with others in the Tech community. 
-## (Please ignore this image, as a professional mostly using gitlab and bitbucket. still i have a good contribution in Github but don't know why stat is showing only this.)
+## Please ignore this image, as a professional mostly using gitlab and bitbucket. still i have a good contribution in Github but don't know why stat is showing only this.
 
 ![sharif291's Stats](https://github-readme-stats.vercel.app/api?username=sharif291&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
