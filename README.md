@@ -38,7 +38,7 @@ I'm really passionate about upskilling and connecting with others in the Tech co
 3. Chocolate.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,next,express,ts,js,html,css,mysql,mongo,discordjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,express,ts,js,python,html,css,mysql,mongo,discordjs,discordpy,pinescript)](https://skillicons.dev)
 
 ## Currently Exploring
 - Upskilling in MERN stack via a 100xDevs course.
