@@ -4,6 +4,7 @@ I am a Bangladesh based Full-Stack Software Developer with 3+ years of industry 
 I've gained significant experience with JavaScript, HTML5, CSS and MySQL, MongoDB. As well as these technologies, I've also built and deployed projects and gained experience with React and Next.  
 
 I'm really passionate about upskilling and connecting with others in the Tech community. 
+## (Please ignore this image, as a professional mostly using gitlab and bitbucket. still i have a good contribution in Github but don't know why stat is showing only this.)
 
 ![sharif291's Stats](https://github-readme-stats.vercel.app/api?username=sharif291&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
