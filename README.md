@@ -27,11 +27,11 @@ I'm really passionate about upskilling and connecting with others in the Tech co
 
 ## Projects
 
+- [Blog Website – BD Blogger](https://bdblogger.vercel.app/)
 - [Ecommerce Website (B2B) - Standard Recreation](https://standardrecreation.com/)
 - [Outlook Plugin – JAMBO](https://www.jambo.cloud/outlook-add-in)
 - [Business Portfolio Website - ENRICH GROUP](https://enrichgrp.com/)
 - [Business Website – DeshiFarmer](https://www.deshifarmer.co/)
-- [Blog Website – BD Blogger](https://bdblogger.vercel.app/)
 - [Adobe Extension - Indesign Salesforce Connector]
 - [Author Portfolio](https://fjsteel.vercel.app/)
 - [Hacker Portfolio](https://kylerace-portfolio.vercel.app)
