@@ -11,10 +11,15 @@ I've gained significant experience with Typescript, JavaScript, HTML5, CSS and M
 
 ![banner](https://github.com/sharif291/sharif291/blob/main/fiv_up_profile_stat.png)
 
+
 I'm really passionate about upskilling and connecting with others in the Tech community. 
 ## Please ignore this image, as a professional mostly using gitlab and bitbucket. still i have a good contribution in Github but don't know why stat is showing only this.
 
 ![sharif291's Stats](https://github-readme-stats.vercel.app/api?username=sharif291&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## Github Contributions for Last Year
+
+![image](https://github.com/user-attachments/assets/dca1c801-499b-40e5-b997-388148eb08e4)
 
 ## About Me
 
